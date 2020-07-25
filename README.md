@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Gatsby
 
 - 💬 Ask me about Python, Django, React Native
-- 📫 Connect with me on ![Twitter](https://twitter.com/iamjustinjohny)
+- 📫 Connect with me on [Twitter](https://twitter.com/iamjustinjohny)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ...
