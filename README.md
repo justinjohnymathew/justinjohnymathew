@@ -1,6 +1,6 @@
 ### Hi there 👋\
 ###### I am Justin 
-- 🔭 I’m currently working on a Django Project
+- 🔭 I’m currently working as a software developer
 - 🌱 I’m currently learning Gatsby
 
 - 💬 Ask me about Python, Django, React Native
